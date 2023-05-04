@@ -1,4 +1,4 @@
-# MORE Tech 4.0 Hackathon
+# MORE Tech 4.0 Hackathon (2022)
 https://moretech.vtb.ru/
 
 ## Track #2 DATA
