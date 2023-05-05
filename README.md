@@ -3,7 +3,7 @@ https://moretech.vtb.ru/
 
 ## Track #2 DATA
 
-[Презентация проекта](https://drive.google.com/file/d/1_b_wcyXLKFePg_a_Em_NYyhBhLFP1ff4/view?usp=sharing)
+[Презентация проекта](https://docs.google.com/presentation/d/1-7QbSZaMVCH64Q9TJK5ldbtWDmuQYdMR/edit?usp=sharing&ouid=113491937784577068477&rtpof=true&sd=true)
 
 ### Задача:
 - Создать сервис, способный выделять из источников самые важные 2 3 новости и выделять тренды и инсайты в новостях 
